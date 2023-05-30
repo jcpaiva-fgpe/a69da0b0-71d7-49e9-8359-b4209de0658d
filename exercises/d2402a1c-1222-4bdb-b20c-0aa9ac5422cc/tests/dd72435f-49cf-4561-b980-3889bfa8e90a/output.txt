@@ -1,0 +1,6 @@
+Your Shopping List:
+
+1. Chips
+2. Cookies
+3. Ice cream
+4. Soda
