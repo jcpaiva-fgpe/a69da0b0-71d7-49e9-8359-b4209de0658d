@@ -1,0 +1,1 @@
+["chicken","pasta","tomatoes","olive oil","garlic"]
