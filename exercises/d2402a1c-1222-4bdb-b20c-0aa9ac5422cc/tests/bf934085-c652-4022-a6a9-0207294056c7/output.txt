@@ -1,0 +1,7 @@
+Your Shopping List:
+
+1. Avocado
+2. Chicken
+3. Lettuce
+4. Lime
+5. Tortillas
