@@ -1,0 +1,1 @@
+{"id":"4087edd0-e1d0-4be2-bec2-8f16eb121a6b","name":"Finish Last Dance","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["ee6d5cfc-dfc5-40f6-a99e-009ff9babe45"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["6738817e-4d33-4311-b1ec-f0bb5d64882d"]}]}
