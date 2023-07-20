@@ -1,0 +1,1 @@
+{"id":"74c3da9d-acd6-4bde-ba95-44686c4cffdb","name":"Finish Numbers","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["100b7902-3d97-48ac-af90-7c3875bcf2f2"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["5362618d-2769-444f-a91f-bd5bd40ce4d2"]},{"type":"GIVE","parameters":["3ca6eeea-6d78-4921-8956-e739154c4046"]}]}
