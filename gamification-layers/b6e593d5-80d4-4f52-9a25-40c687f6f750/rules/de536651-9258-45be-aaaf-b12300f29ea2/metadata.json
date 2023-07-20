@@ -1,0 +1,1 @@
+{"id":"de536651-9258-45be-aaaf-b12300f29ea2","name":"Finish Strings","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c5257e1e-9823-49c9-b534-91ff04cc5bdb"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["ea90cc61-dc41-43e1-aee9-a61956958977"]}]}
