@@ -1,1 +1,1 @@
-{"id":"dc20130b-79f7-49ae-8ca1-24852f627b2e","name":"[UNLOCK] The End","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["f593dddf-db84-4871-88b2-1fc15eb0982f"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":[]}]}
+{"id":"dc20130b-79f7-49ae-8ca1-24852f627b2e","name":"[UNLOCK] The End","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["f593dddf-db84-4871-88b2-1fc15eb0982f"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["d9e1cc30-f0c2-4abc-bd89-c854d1702724"]}]}
