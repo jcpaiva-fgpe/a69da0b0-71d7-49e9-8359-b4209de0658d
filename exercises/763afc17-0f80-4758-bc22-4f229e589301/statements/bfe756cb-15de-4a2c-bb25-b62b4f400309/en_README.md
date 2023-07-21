@@ -21,7 +21,7 @@ A first line with the number of group members. An equal number of blocks follow,
 Output
 ------
 
-If there is a week where everyone can, indicate the start date of the vacation in the format: day number followed by a space followed by `June`, `July`, `August` or `September`. Otherwise the word `inconsistent`.
+If there is a week where everyone can, indicate the start date of the vacation in the format: day number followed by a space followed by `Junho`, `Julho`, `Agosto` or `Setembro`. Otherwise the word `inconsistente`.
 
 
 Examples
@@ -31,10 +31,10 @@ Examples
 
 ```sh
 3
-two
+2
 10 7 7 9 -1
 10 6 23 6 5
-two
+2
 1 6 15 7 -1
 25 7 26 7 4
 1
@@ -44,7 +44,7 @@ two
 ### Output 1
 
 ```sh
-inconsistent
+inconsistente
 ```
 
 ### Input 2
@@ -62,7 +62,7 @@ inconsistent
 1 6 31 7 4
 1
 1 8 5 9 1
-two
+2
 3 7 20 8 4
 1 9 9 9 -1
 3
@@ -74,7 +74,7 @@ two
 ### Output 2
 
 ```sh
-July 9
+Julho 9
 ```
 
 
